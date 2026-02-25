@@ -4,7 +4,7 @@ Useful tool to track location or mobile number, so this tool can be called osint
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png"/>
 
 New update :
-```Version 2.2```
+```Version 2.3```
 
 ### Instalation on Linux (deb)
 ```
